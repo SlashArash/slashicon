@@ -7,13 +7,13 @@ SlashIcon is an icon theme for Linux. Licensed under the GPL-3.0+
 
 I strongly recommend you clone this repository instead of downloading the zip file. It will be convenient when you want to download updates, where only the necessary files will be downloaded/updated.
 ```bash
-mkdir -p "~/.local/share/icons/slashicon" && git clone https://github.com/slasharash/slashicon ~/.local/share/icons/slashicon/
+mkdir -p "~/.icons/slashicon" && git clone https://github.com/slasharash/slashicon ~/.icons/slashicon/
 ```
 Use a tweaking tool to choose your icon theme, like Gnome Tweak tool.
 
 ####to get updates:
 ```bash
-cd "~/.local/share/icons/slashicon" && git pull origin master
+cd "~/.icons/slashicon" && git pull origin master
 ```
 
 ### Icon Requests
