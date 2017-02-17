@@ -1,3 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 38.4 38.4">
- <path d="m 17.371 6.4 3.657 0 c 5.486 0 5.368 5.569 5.368 5.569 l 0 4.772 c 0 1.817 -3.197 5.715 -3.197 5.715 l 0 2.386 7.2 3.975 l 0 3.183 -22.4 0 l 0 -3.183 7.2 -3.975 0 -2.386 c 0 0 -3.209 -3.898 -3.197 -5.715 l 0 -4.772 c 0 0 -0.118 -5.569 5.368 -5.569 z" style="fill:#555"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 48 48">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <g
+     id="layer1"
+     style="stroke:#555555;stroke-opacity:1">
+    <path
+       id="path4152"
+       d="m 7.7228748,2.889958 c 9.6081412,-3.17819241 22.7894572,-3.17819241 32.4984792,0 2.296868,0.7518749 4.413016,2.7960636 5.13134,5.08502 2.809253,8.951742 2.876079,23.915426 0,32.205059 -0.786478,2.266852 -2.818699,4.382219 -5.13134,5.085 -9.709022,2.950479 -22.890338,2.993893 -32.4984792,0 -2.3075499,-0.719022 -4.3806221,-2.806273 -5.1313396,-5.085 -2.73098039,-8.289633 -2.80759188,-23.253318 0,-32.205059 0.717939,-2.2890738 2.8368542,-4.3260284 5.1313396,-5.08502 z"
+       style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#555555;stroke-width:0.99939507;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     transform="matrix(1.1729197,0,0,1.1729197,2.1353594,2.4263909)"
+     id="g4" />
+  <path
+     id="path4"
+     style="fill:#555555"
+     d="m 21.783962,8.8135595 4.280704,0 c 6.421642,0 6.283517,6.5187985 6.283517,6.5187985 l 0,5.585869 c 0,2.126891 -3.742251,6.689698 -3.742251,6.689698 l 0,2.792934 8.427966,4.65294 0,3.725863 -26.220339,0 0,-3.725863 8.427966,-4.65294 0,-2.792934 c 0,0 -3.756298,-4.562807 -3.742251,-6.689698 l 0,-5.585869 c 0,0 -0.138125,-6.5187985 6.283517,-6.5187985 z" />
 </svg>

@@ -1,5 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
- <g transform="translate(-0.45762712,-1006.3622)">
-  <path d="m 20 6 l 0 20.736 a 4.136 6.204 75 0 0 -5.158 -0.285 a 4.136 6.204 75 0 0 -4.922 5.602 a 4.136 6.204 75 0 0 7.06 2.389 a 4.136 6.204 75 0 0 5.01 -4.807 l 0.004 0 l 0 -15.254 l 13 1.734 l 0 15.869 a 4.136 6.204 75 0 0 -5.158 -0.285 a 4.136 6.204 75 0 0 -4.922 5.602 a 4.136 6.204 75 0 0 7.06 2.389 a 4.136 6.204 75 0 0 5.01 -4.809 l 0.004 0.002 l 0 -26.605 l -17 -2.277 z m 2 4.621 l 13 1.734 l 0 1.76 l -13 -1.734 l 0 -1.76 z" transform="translate(0.45762712,1006.3622)" style="fill:#4c7686"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 48 48">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <g
+     id="layer1">
+    <path
+       id="path4152"
+       d="m 7.7228748,2.889958 c 9.6081412,-3.17819241 22.7894572,-3.17819241 32.4984792,0 2.296868,0.7518749 4.413016,2.7960636 5.13134,5.08502 2.809253,8.951742 2.876079,23.915426 0,32.205059 -0.786478,2.266852 -2.818699,4.382219 -5.13134,5.085 -9.709022,2.950479 -22.890338,2.993893 -32.4984792,0 -2.3075499,-0.719022 -4.3806221,-2.806273 -5.1313396,-5.085 -2.73098039,-8.289633 -2.80759188,-23.253318 0,-32.205059 0.717939,-2.2890738 2.8368542,-4.3260284 5.1313396,-5.08502 z"
+       style="display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#226482;stroke-width:0.99939507;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+  <g
+     id="layer2">
+    <g
+       style="fill:#226482;fill-opacity:1"
+       id="g4"
+       transform="translate(-0.88098915,-1005.5655)">
+      <path
+         id="path6-3"
+         style="fill:#226482;fill-opacity:1"
+         transform="translate(0.45762712,1006.3622)"
+         d="m 20,6 0,20.736 a 4.136,6.204 75 0 0 -5.158,-0.285 4.136,6.204 75 0 0 -4.922,5.602 4.136,6.204 75 0 0 7.06,2.389 4.136,6.204 75 0 0 5.01,-4.807 l 0.004,0 0,-15.254 13,1.734 0,15.869 a 4.136,6.204 75 0 0 -5.158,-0.285 4.136,6.204 75 0 0 -4.922,5.602 4.136,6.204 75 0 0 7.06,2.389 4.136,6.204 75 0 0 5.01,-4.809 l 0.004,0.002 0,-26.605 -17,-2.277 z m 2,4.621 13,1.734 0,1.76 -13,-1.734 0,-1.76 z" />
+    </g>
+  </g>
 </svg>
