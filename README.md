@@ -1,6 +1,8 @@
 # SlashIcon
 
-SlashIcon is an icon theme for Linux. Licensed under the GPL-3.0+
+SlashIcon is an icon theme for Linux. It's included cursor and icon theme.
+SlashIcon is based on Numix, Flat Remix, La Capitaine, Oranchelo and Capitaine Cursers with some new design.
+Licensed under the GPL-3.0+
 ![alt tag](https://raw.githubusercontent.com/SlashArash/slashicon/master/preview.jpg)
 
 ### Installation
@@ -17,4 +19,4 @@ cd "~/.icons/slashicon" && git pull origin master
 ```
 
 ### Icon Requests
-For normal applications just send an email to slasharash@protonamail.com. For non-app requests try to include as much information (especially icon names) as possible to make my job easier.
+For normal applications just send an email to slasharash@protonmail.com. For non-app requests try to include as much information (especially icon names) as possible to make my job easier.
